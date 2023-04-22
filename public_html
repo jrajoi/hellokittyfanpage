@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>jrajoi</title>
+</head>
+<body>
+    <h1 align="center">JRAJOI.XYZ</h1>
+    <style>
+        body {
+            background-color: black;
+        }
+        h1 {
+            color:aliceblue;
+			text-align: center;
+            size: 112;
+            text-shadow:25px;
+        }
+        </style>
+    
+</body>
+</html>
